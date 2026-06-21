@@ -11,11 +11,10 @@
 [![Test AUC](https://img.shields.io/badge/Test%20AUC-0.985-3b82f6?style=flat-square)]()
 [![Accuracy](https://img.shields.io/badge/Accuracy-96.4%25-22c55e?style=flat-square)]()
 
-**Vardhaman College of Engineering, Hyderabad**  
-Department of Computer Science and Engineering (AI & ML) · Mini Project A8041 · 2025–26
 
-*Anveer Chetty (23881A6667) · Niccunj Bajaj (23881A6698) · Pratham Lahoti (23881A66A5)*  
-*Supervisor: Prof. M.A. Jabbar, Head & Professor, Dept. of CSE (AI&ML)*
+
+*Anveer Chetty  · Niccunj Bajaj  · Pratham Lahoti*  
+
 
 </div>
 
